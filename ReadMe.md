@@ -53,10 +53,13 @@ Update the configuration files (e.g., config/constants.py) with appropriate path
 Run the bot:
 python main.py
 
+### Websites used
+https://pixabay.com/
+https://elevenlabs.io/
 
-Contributing 🤝
+### Contributing 🤝
 Feel free to fork this repository and make improvements. Contributions are welcome!
 Create a pull request or report issues under the Issues tab.
 
-License 📜
+### License 📜
 This project is licensed under the Apache License. See the LICENSE file for details.

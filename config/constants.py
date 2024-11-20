@@ -1,0 +1,6 @@
+pixabay_url = "https://pixabay.com/api/"
+i_save_path="images/"
+a_save_path="audios/"
+v_save_path="videos/"
+driver_path = "chromedriver"
+parent_path = "/Users/nandakishore/Documents/work/auto_yt_poster/"

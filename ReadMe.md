@@ -10,7 +10,7 @@ Automates YouTube Studio video uploads with Selenium.
 <h1 style="color:red;">Important</h1>
 Youtube has rate limits, so you have to add time.sleep() and set intervals between each loop or else add it as a cronjob.
 
-## Installation 📦
+### Installation 📦
 Prerequisites
 Python 3.10+
 Google Chrome (latest version)

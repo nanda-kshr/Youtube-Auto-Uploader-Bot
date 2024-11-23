@@ -10,7 +10,10 @@ Automates YouTube Studio video uploads with Selenium.
 # Important
 
 ```diff 
-- Youtube has rate limits, so you have to add time.sleep() and set intervals between each loop or else add it as a cronjob.
+-
+Youtube has rate limits, so you have
+to add time.sleep()and set intervals between
+each loop or else add it as a cronjob.
 ```
 ### Installation 📦
 Prerequisites

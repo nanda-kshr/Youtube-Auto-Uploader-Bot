@@ -7,9 +7,10 @@ Generates audio from text using the ElevenLabs Text-to-Speech API.
 Combines images and audio into a video using moviepy.
 Automates YouTube Studio video uploads with Selenium.
 
-<h1> - Important </h1>
+```diff 
+- <h1>Important </h1>
 Youtube has rate limits, so you have to add time.sleep() and set intervals between each loop or else add it as a cronjob.
-
+```
 ### Installation 📦
 Prerequisites
 Python 3.10+

@@ -1,15 +1,16 @@
 # Auto YouTube Poster Bot 🎥🤖
 A Python-based bot that automates the process of generating and uploading videos to YouTube. This project uses Selenium for browser automation and various APIs for generating images, audio, and assembling them into videos.
 
-## Features 🚀
+# Features 🚀
 Downloads images based on keywords using the Pixabay API.
 Generates audio from text using the ElevenLabs Text-to-Speech API.
 Combines images and audio into a video using moviepy.
 Automates YouTube Studio video uploads with Selenium.
 
+# Important
+
 ```diff 
-- <h1>Important </h1>
-Youtube has rate limits, so you have to add time.sleep() and set intervals between each loop or else add it as a cronjob.
+- Youtube has rate limits, so you have to add time.sleep() and set intervals between each loop or else add it as a cronjob.
 ```
 ### Installation 📦
 Prerequisites
